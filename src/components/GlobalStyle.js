@@ -9,7 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-   background-color: rgb(230, 224, 224);
+  background-color: rgb(230, 224, 224);
   
 }
 
@@ -35,10 +35,8 @@ h3,
 h4,
 h5,
 h6,
-ul,
- {
-  margin: 0;
-  padding: 0;
+ul
+{
   list-style: none;
 }
 `;
